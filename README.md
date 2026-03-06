@@ -89,36 +89,24 @@ Each topic builds on previous knowledge.
 
 # 📂 Repository Structure
 
-
-c-programming-journey
+---
+c-programming-journey/
 │
 ├── 00-introduction
-│
 ├── 01-getting-started
-│
 ├── 02-basics
-│
 ├── 03-input-output
-│
 ├── 04-control-flow
-│
 ├── 05-functions
-│
 ├── 06-arrays
-│
 ├── 07-strings
-│
 ├── 08-pointers
-│
 ├── 09-structures
-│
 ├── 10-file-handling
 │
 ├── practice-problems
-│
 └── projects
-
-
+---
 Each section contains:
 
 - Concept explanations
