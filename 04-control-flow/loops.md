@@ -802,12 +802,6 @@ Loops allow programs to **repeat tasks efficiently**.
 
 Next we will learn:
 
-# Functions in C
+# Break and Continue statements
 
-Topics include:
-
-- function definition
-- function declaration
-- parameters
-- return values
-- modular programming
+because they control **loop behavior**, which fits perfectly after loops.
