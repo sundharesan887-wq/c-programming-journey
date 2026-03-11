@@ -495,4 +495,3 @@ Key concepts used:
 - Symmetric matrix check
 - Upper triangle matrix
 - Lower triangle matrix
-```
